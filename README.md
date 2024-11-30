@@ -1,5 +1,5 @@
-# How to Generate a Fancy KOOK Bio
-# 如何生成一个华丽的KOOK自我介绍
+# How to Have a Fancy KOOK Bio
+# 如何拥有一个华丽的KOOK自我介绍
 
 ## 效果图：
 
